@@ -1,0 +1,242 @@
+/* {
+    margin: 0;
+    padding: 0;
+} */
+
+.heading1 h1
+{
+    text-align: center;
+    color: red;
+    border: 3px solid green;
+    margin:10px 560px 10px 560px;
+    border-radius: 15px;
+    background-color:aqua;
+    padding: 5px;
+}
+.heading2 
+{
+   border: 3px solid green;
+   margin: 20px 15px 40px 10px;
+   padding: 20px;
+
+}
+.heading2 h1
+{
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: violet;
+    margin:10px 0px 0px 5px ;
+    word-spacing: 5px;
+}
+.heading2 p
+{
+   
+    text-align: justify;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    line-height: 20px;
+    margin-top: 5px;
+    padding: 5px;
+    
+}
+ .heading2 a
+{
+    border: 1px solid red;
+    background-color: black;
+    color: white;
+    text-decoration: none; 
+}
+.heading2 a:hover
+{
+    background-color: purple;
+}
+
+.heading3 
+{
+   border: 3px solid green;
+   margin: 20px 15px 40px 10px;
+   padding: 20px;
+
+}
+.heading3 h1
+{
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: violet;
+    margin:10px 0px 0px 5px ;
+    word-spacing: 5px;
+}
+.heading3 p
+{
+   
+    text-align: justify;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    line-height: 20px;
+    margin-top: 5px;
+    padding: 5px;
+    
+}
+ .heading3 a
+{
+    border: 1px solid red;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+.heading3 a:hover
+{
+    background-color: purple;
+} 
+
+.block-1
+{
+    border: 2px solid red;
+    width:32%;
+    text-align: justify;
+    line-height: 20px;
+    word-spacing: 3px;
+    background-color: yellow;
+    border-radius: 40px;
+    
+}
+h3{
+    color:RED;
+    letter-spacing: 5PX;
+    margin: 10px 10px 10px 10px;
+    text-decoration: underline;
+}
+p
+{ 
+    padding: 10px 10px 10px 10px;
+    word-spacing: 4px;
+    font-size: large;
+}
+.block-2
+{
+    border: 2px solid red;
+    width:32%;
+    text-align: justify;
+    line-height: 20px;
+    word-spacing: 3px;
+    margin: -385px 10px 10px 528px;
+    background-color: blueviolet;
+    border-radius: 40px;
+  
+}
+.block-3{
+    border: 2px solid red;
+    width:32%;
+    text-align: justify;
+    line-height: 20px;
+    word-spacing: 3px;
+    float: right;
+    margin-top:  -395px;
+    background-color: blue;
+    border-radius: 40px;
+   
+}
+table{
+    border-radius: 20px;
+    text-align: center;
+    /* height: 350px; */
+    width:500px;
+    
+    
+    
+}
+
+td{
+    border-radius: 30px;
+    font-size: 20px;
+    padding: 10px;
+    
+}
+.forms 
+{
+    border: 2px solid red; 
+    text-align: center;
+    width: 32%;
+    margin-left: 600px;
+    background-color: darksalmon;
+    border-radius: 20px;
+    height: 425px;
+    
+
+    
+    
+   
+}
+h4
+{
+     color:green;
+     text-align: center;
+}
+
+#color
+{
+    background-color: black;
+    color:red
+}
+#color1 button{
+    background-color:  rgb(68, 209, 25);
+    border-radius: 50px;
+    text-align: center;
+}
+
+
+ul{
+    list-style: none;
+    text-decoration: underline;
+    color: blue;
+    font-size: 20px;
+
+
+}
+
+ul li{
+    
+    color: red; 
+    padding:20px;
+  
+ 
+}
+
+#first
+{
+    color: brown;
+    background-color: aquamarine;
+}
+ 
+#imgaaa
+{
+       position: absolute; 
+       margin: -267px 10px 10px 251px;
+}
+#imgbbb
+{
+    position: absolute; 
+    margin: -203px 10px 10px 251px;
+}
+#imgccc
+{
+    position:absolute; 
+   margin: -130px 10px 10px 251px;
+}
+#imgddd
+{
+    position: absolute; 
+    margin: -70px 10px 10px 251px;
+}
+
+
+
+
+   
+
+  
+  
+  
+
+
+
